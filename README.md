@@ -26,7 +26,7 @@
 
 ---
 
-### **Question 1 Achieving 1NF (First Normal Form) 🛠️
+### Question 1 Achieving 1NF (First Normal Form) 🛠️
 Task:
 - You are given the following table **ProductDetail**:
 
@@ -42,7 +42,7 @@ Task:
 
 --- 
 
-### **Question 2 Achieving 2NF (Second Normal Form) 🧩
+### Question 2 Achieving 2NF (Second Normal Form) 🧩
 
 - You are given the following table **OrderDetails**, which is already in **1NF** but still contains partial dependencies:
 
